@@ -1,0 +1,3604 @@
+{
+    "error": 0,
+    "data": {
+        "ratings": [
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 28948186719,
+                "ctime": 1737393768,
+                "rating": 1,
+                "userid": 368931667,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 1,
+                "mtime": 1737393768,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1737393768,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "birdfinance",
+                "author_portrait": "",
+                "author_shopid": 368912090,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 41873085454,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1739985768,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 17632796895,
+                "ctime": 1730354659,
+                "rating": 1,
+                "userid": 127914862,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1730354659,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1730354659,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "witoonkp",
+                "author_portrait": "th-11134233-7qul9-lje0sw7lppxt38",
+                "author_shopid": 127913038,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 17615912879,
+                "ctime": 1730275581,
+                "rating": 1,
+                "userid": 85770669,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1730275581,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1730275581,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "piyawatbhirompin",
+                "author_portrait": "1956cdc5dd16d001747c430c14fb0b5b",
+                "author_shopid": 85769192,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 20806021513,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 22217537666,
+                "ctime": 1733971969,
+                "rating": 1,
+                "userid": 51596775,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1733971969,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1733971969,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "s*****9",
+                "author_shopid": 51595387,
+                "anonymous": true,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 24410023969,
+                "ctime": 1734839284,
+                "rating": 1,
+                "userid": 163534125,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1734839284,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1734839284,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "chatchawatcholaketu",
+                "author_portrait": "c91bc4f968d9fb7b5d6949dad6056026",
+                "author_shopid": 163531976,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 23820408824,
+                "ctime": 1734585577,
+                "rating": 1,
+                "userid": 48659526,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1734585577,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1734585577,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "gamemykasemchotipatana",
+                "author_portrait": "cd174710352fb36a55ea855c9177c4c7",
+                "author_shopid": 48658138,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 25482664939,
+                "ctime": 1735522680,
+                "rating": 1,
+                "userid": 269380301,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1735522680,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1735522680,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "b*****n",
+                "author_shopid": 269376563,
+                "anonymous": true,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 28166031236,
+                "ctime": 1736857454,
+                "rating": 1,
+                "userid": 119763446,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1736857454,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1736857454,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "sandarapeck",
+                "author_portrait": "th-11134233-7qul5-ljgqmoovzaxy13",
+                "author_shopid": 119761622,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 51867694250,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1739449454,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 25192841841,
+                "ctime": 1735105658,
+                "rating": 1,
+                "userid": 181828853,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1735105658,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1735105658,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "worasornmakgeur",
+                "author_portrait": "2447cb78d74bb2941479e05116ff7778",
+                "author_shopid": 181826207,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 16972098600,
+                "ctime": 1728215421,
+                "rating": 1,
+                "userid": 56461345,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1728215421,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1728215421,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "boybanik",
+                "author_portrait": "",
+                "author_shopid": 56459921,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 20806021513,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 28935755452,
+                "ctime": 1737296715,
+                "rating": 1,
+                "userid": 201118576,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1737296715,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1737296715,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "now2541.sy",
+                "author_portrait": "aac607ceff829ee0c510352a669493ce",
+                "author_shopid": 201115425,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 6591040302,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1739888715,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 18810421143,
+                "ctime": 1731681643,
+                "rating": 1,
+                "userid": 44913972,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1731681643,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1731681643,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "sutidaklincharoen",
+                "author_portrait": "35382b6c2ae541b92b60281ce522f1b9",
+                "author_shopid": 44912586,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 19521681449,
+                "ctime": 1732253846,
+                "rating": 1,
+                "userid": 36830360,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1732253846,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1732253846,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "tadumpooputta",
+                "author_portrait": "8dcd065597a478a9aaddfe8f9c39a88c",
+                "author_shopid": 36828976,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 19573144366,
+                "ctime": 1732374172,
+                "rating": 1,
+                "userid": 122958447,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1732374172,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1732374172,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "giviapple",
+                "author_portrait": "th-11134233-7r992-ls8obiweqful58",
+                "author_shopid": 122956623,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 20203920548,
+                "ctime": 1733206802,
+                "rating": 1,
+                "userid": 253288697,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1733206802,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1733206802,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "abtnotzzz",
+                "author_portrait": "869313a803a3d1165494e930829bebba",
+                "author_shopid": 253288066,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 25836367565,
+                "ctime": 1735982065,
+                "rating": 1,
+                "userid": 17574783,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1735982065,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1735982065,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "noey.korntirut",
+                "author_portrait": "",
+                "author_shopid": 17573447,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1738574065,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 28905199684,
+                "ctime": 1737081500,
+                "rating": 1,
+                "userid": 55227450,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1737081500,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1737081500,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "m*****m",
+                "author_shopid": 55226026,
+                "anonymous": true,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 52869974238,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1739673500,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 28915156353,
+                "ctime": 1737137094,
+                "rating": 1,
+                "userid": 5138775,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1737137094,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1737137094,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "pearadet",
+                "author_portrait": "",
+                "author_shopid": 5137481,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 36870783052,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1739729094,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 24383759362,
+                "ctime": 1734761196,
+                "rating": 1,
+                "userid": 242802795,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1734761196,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1734761196,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "pakornwaengkham6511",
+                "author_portrait": "th-11134233-7r990-lncflig4upuvda",
+                "author_shopid": 242797165,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 20037570912,
+                "ctime": 1733028096,
+                "rating": 1,
+                "userid": 41686817,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1733028096,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1733028096,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "ubonratk",
+                "author_portrait": "fce0f88411ab183bff6b18488042a647",
+                "author_shopid": 41685431,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 20746381531,
+                "ctime": 1733437008,
+                "rating": 1,
+                "userid": 114432075,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1733437008,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1733437008,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "modelman1",
+                "author_portrait": "b8b544c0b188f60194e1d0b5ae7e32e1",
+                "author_shopid": 114430252,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 28209732485,
+                "ctime": 1736914488,
+                "rating": 1,
+                "userid": 72427265,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1736914488,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1736914488,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "p*****z",
+                "author_shopid": 72425803,
+                "anonymous": true,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1739506488,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 29467039942,
+                "ctime": 1737996926,
+                "rating": 1,
+                "userid": 88335761,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1737996926,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1737996926,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "uchinpaulee",
+                "author_portrait": "5a6afc1ab3e87234b0f925eae1b438ff",
+                "author_shopid": 88334283,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 46380959743,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1740588926,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 29530054816,
+                "ctime": 1738039903,
+                "rating": 1,
+                "userid": 265714709,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1738039903,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1738039903,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "aofaoffff",
+                "author_portrait": "8e30f45bc87837d790f1f97a0548c858",
+                "author_shopid": 265711972,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 51880881076,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1740631903,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 17067117050,
+                "ctime": 1728641567,
+                "rating": 1,
+                "userid": 77953460,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1728641567,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1728641567,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "thetikker1",
+                "author_portrait": "316c7334fb2e08c106255edd611e0cb0",
+                "author_shopid": 77951986,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 20806021513,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 17010222269,
+                "ctime": 1728381550,
+                "rating": 1,
+                "userid": 255949412,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1728381550,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1728381550,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "yamkamonwan",
+                "author_portrait": "th-11134233-7r98y-lug94dfb0xg5fe",
+                "author_shopid": 255948380,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 20806021513,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 17221594147,
+                "ctime": 1729157067,
+                "rating": 1,
+                "userid": 117161730,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1729157067,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1729157067,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "chaiyotsanghklai",
+                "author_portrait": "c3a280029cf981d0952ce4065b1e20b7",
+                "author_shopid": 117159906,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 20806021513,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 28796420490,
+                "ctime": 1737021298,
+                "rating": 1,
+                "userid": 103608047,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1737021298,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1737021298,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "llovef...",
+                "author_portrait": "th-11134233-7r98o-lp856i29eo3ia5",
+                "author_shopid": 103606568,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 44366433085,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1739613298,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 20498633128,
+                "ctime": 1733357059,
+                "rating": 1,
+                "userid": 83322175,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1733357059,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1733357059,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "manutsineechumyen",
+                "author_portrait": "th-11134233-7r98s-lpghfsm442g96f",
+                "author_shopid": 83320698,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 26538358226,
+                "ctime": 1736148852,
+                "rating": 1,
+                "userid": 213505350,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1736148852,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1736148852,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "natee19218",
+                "author_portrait": "",
+                "author_shopid": 213501640,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1738740852,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 29528142859,
+                "ctime": 1738023784,
+                "rating": 1,
+                "userid": 232201388,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1738023784,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1738023784,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "_peachiii",
+                "author_portrait": "8cb6e183177f41b8107aac9d8ff963d3",
+                "author_shopid": 232196626,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 51880881076,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1740615784,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 17642909415,
+                "ctime": 1730433028,
+                "rating": 1,
+                "userid": 266275403,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1730433028,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1730433028,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "s*****1",
+                "author_shopid": 266272596,
+                "anonymous": true,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 20806021513,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 17238215570,
+                "ctime": 1729235281,
+                "rating": 1,
+                "userid": 378993210,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1729235281,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1729235281,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "engrichx",
+                "author_portrait": "",
+                "author_shopid": 378973633,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 20806021513,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 22940687202,
+                "ctime": 1734360950,
+                "rating": 1,
+                "userid": 78066759,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1734360950,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1734360950,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "sathitthumfungfingsrisook",
+                "author_portrait": "th-11134233-7rasf-m43z0qw22aiy5e",
+                "author_shopid": 78065285,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 25725287775,
+                "ctime": 1735904388,
+                "rating": 1,
+                "userid": 98841802,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1735904388,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1735904388,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "zeeskyfc2016",
+                "author_portrait": "th-11134233-7qul2-lg8epcpx1qmn28",
+                "author_shopid": 98840324,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1738496388,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 29527524092,
+                "ctime": 1738014111,
+                "rating": 1,
+                "userid": 241740520,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1738014111,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1738014111,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "gumparasiri.s",
+                "author_portrait": "952c066f6cc99029b42141ce5724d4d1",
+                "author_shopid": 241734942,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 51880881076,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1740606111,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 17509745842,
+                "ctime": 1729992559,
+                "rating": 1,
+                "userid": 80612116,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1729992559,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1729992559,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "pheamphat_pk",
+                "author_portrait": "945f188176f12fd3c323e88bcebe5083",
+                "author_shopid": 80610642,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 20806021513,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 20200897568,
+                "ctime": 1733188343,
+                "rating": 1,
+                "userid": 170459838,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1733188343,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1733188343,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "kedkamonchanokjaa",
+                "author_portrait": "7e2c53707683efdb1f44b4f6ce7e6f25",
+                "author_shopid": 170457469,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 28942572148,
+                "ctime": 1737360265,
+                "rating": 1,
+                "userid": 22689482,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1737360265,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1737360265,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "nuttha.juu",
+                "author_portrait": "",
+                "author_shopid": 22688146,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 23896518013,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1739952265,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 25476557348,
+                "ctime": 1735463826,
+                "rating": 1,
+                "userid": 84835198,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1735463826,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1735463826,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "legendbell",
+                "author_portrait": "6acb7457a8ea66455dc8ec1cafd2b31f",
+                "author_shopid": 84833721,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 25516695154,
+                "ctime": 1735808320,
+                "rating": 1,
+                "userid": 70479485,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1735808320,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1735808320,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "pornpanmanchuaywong",
+                "author_portrait": "th-11134233-7rasd-m4elcxik9nh3b8",
+                "author_shopid": 70478025,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1738400320,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 28270772330,
+                "ctime": 1736943885,
+                "rating": 1,
+                "userid": 241711083,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1736943885,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1736943885,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "thanyapatreesuwan0801",
+                "author_portrait": "c501b7a9de9a522f50572a6da40ebab8",
+                "author_shopid": 241705509,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 51867694250,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1739535885,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 23116649697,
+                "ctime": 1734393196,
+                "rating": 1,
+                "userid": 139766727,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1734393196,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1734393196,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "tyniti",
+                "author_portrait": "1e55ff4e069655269190d31f0cab7ec5",
+                "author_shopid": 139764903,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 17767492620,
+                "ctime": 1730714078,
+                "rating": 1,
+                "userid": 26046333,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1730714078,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1730714078,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "boywichit",
+                "author_portrait": "9330fb1a40aca109eef9a077c58a9b07",
+                "author_shopid": 26044997,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 17769156515,
+                "ctime": 1730721782,
+                "rating": 1,
+                "userid": 65908902,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1730721782,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1730721782,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "s*****w",
+                "author_shopid": 65907446,
+                "anonymous": true,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 19384784632,
+                "ctime": 1732104076,
+                "rating": 1,
+                "userid": 11421298,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1732104076,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1732104076,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "apichetlaemlak",
+                "author_portrait": "th-11134233-7r992-lz7fvzm4vjpdb9",
+                "author_shopid": 11419998,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 21622116365,
+                "ctime": 1733848778,
+                "rating": 1,
+                "userid": 53918095,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1733848778,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1733848778,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "panaddakrutchat",
+                "author_portrait": "c34e3cada052a5918ae5be2f87a522b2",
+                "author_shopid": 53916671,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 25494823650,
+                "ctime": 1735619167,
+                "rating": 1,
+                "userid": 156055157,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1735619167,
+                "editable": 0,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1735619167,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "aitsaraphetnui",
+                "author_portrait": "th-11134233-7qul6-ljjz3q81mb0p28",
+                "author_shopid": 156053207,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 25835357322,
+                "ctime": 1735977466,
+                "rating": 1,
+                "userid": 40116903,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1735977466,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1735977466,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "houseware.official14",
+                "author_portrait": "290bad13a2f2da611ddfc5d47d6eff1a",
+                "author_shopid": 40115517,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1738569466,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            },
+            {
+                "orderid": 0,
+                "itemid": 27711386279,
+                "cmtid": 26909760586,
+                "ctime": 1736298175,
+                "rating": 1,
+                "userid": 41592709,
+                "shopid": 301786571,
+                "comment": "",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1736298175,
+                "editable": 1,
+                "opt": 2,
+                "filter": 0,
+                "is_hidden": false,
+                "submit_time": 1736298175,
+                "origin_itemid": 0,
+                "origin_shopid": 0,
+                "author_username": "modehaha",
+                "author_portrait": "0821e5fd75159a199d35e8a05bcb950a",
+                "author_shopid": 41591323,
+                "anonymous": false,
+                "product_items": [
+                    {
+                        "itemid": 27711386279,
+                        "shopid": 301786571,
+                        "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                        "image": "th-11134207-7r98r-m0739xrk2jtk71",
+                        "is_snapshot": 1,
+                        "snapshotid": 39784665423,
+                        "modelid": 166683030742,
+                        "model_name": "",
+                        "options": [
+                            ""
+                        ]
+                    }
+                ],
+                "editable_date": 1738890175,
+                "show_reply": true,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "has_template_tag": false,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "th"
+                },
+                "is_repeated_purchase": false,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "size_info_abt": "",
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "region": "TH",
+                "original_item_info": {
+                    "itemid": 27711386279,
+                    "shopid": 301786571,
+                    "name": "Apple AirPods 4 with Active Noise Cancellation by Studio 7",
+                    "image": "th-11134207-7r98r-m0739xrk2jtk71"
+                },
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "review_type": 0
+            }
+        ],
+        "item_rating_summary": {
+            "rating_total": 1616,
+            "rating_count": [
+                4,
+                2,
+                11,
+                61,
+                1538
+            ],
+            "rcount_with_context": 316,
+            "rcount_with_image": 263,
+            "rcount_with_media": 272,
+            "rcount_local_review": 1616,
+            "rcount_repeat_purchase": 0,
+            "rcount_overall_fit_small": 0,
+            "rcount_overall_fit_fit": 0,
+            "rcount_overall_fit_large": 0,
+            "rcount_oversea_review": 0,
+            "rcount_folded": 0,
+            "show_size_fitting": false
+        },
+        "is_sip_item": false,
+        "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_no_media_hidden,QUEUE:comment_search_no_media_hidden,NEWABTEST:469162,QUEUES:comment_search_no_media_hidden",
+        "downgrade_switch": false,
+        "has_more": true,
+        "show_local_review": false,
+        "browsing_ui": "",
+        "enable_buyer_gallery_media": true,
+        "size_info_abt": "",
+        "resize_image_abt": true,
+        "purchase_bar_abt": "bucket_a",
+        "signature": "",
+        "original_review_summary": {},
+        "fe_review_summary": {},
+        "similar_section_scenario": 0,
+        "variation_filters_data": {},
+        "hide_shop_rating": false
+    }
+}
